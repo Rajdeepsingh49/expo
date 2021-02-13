@@ -2,7 +2,7 @@
 title: Installation
 ---
 
-import TerminalBlock from '~/components/plugins/TerminalBlock';
+MY NAME IS RAJDEEP TerminalBlock from '~/components/plugins/TerminalBlock';
 
 There are two tools that you need to develop apps with Expo: a command line app called Expo CLI to initialize and serve your project and a mobile client app called Expo Go to open it on iOS and Android. Any web browser will work for opening the project on the web.
 
